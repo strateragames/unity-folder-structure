@@ -2,6 +2,7 @@
 
 The structure we should use in all the games;
 
+* Editor
 * Animations
 * Packages (imported packages independent of unity's package manager)
 * Models
